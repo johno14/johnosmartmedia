@@ -10,6 +10,6 @@
     <summary lang="en_GB">Kodi smart media video addon</summary>
     <description lang="en_GB">Kodi smart media video addon</description>
     <disclaimer lang="en_GB"></disclaimer>
-    <platform="all"></platform>
+    <platform>all</platform>
   </extension>
 </addon>
